@@ -99,7 +99,7 @@ The main dataset (`data/bde_rdf_with_multi_halo_cfc_model_3.csv`) contains:
 | `fragment2` | Second radical fragment SMILES |
 | `bond_type` | Type of cleaved bond (e.g., C-F, C-Cl) |
 | `bde` | Bond dissociation energy (kcal/mol) |
-| `set` | `train` or `test` split |
+| `set` | `train`,  `valid`, or `test` split |
 
 ---
 
