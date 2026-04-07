@@ -178,7 +178,7 @@ Parses ORCA output files and computes BDE from SCF energies and zero-point energ
 ```
 @article{SheshanarayanaRadGen2026,
   author    = {R. Sheshanarayana and Fengqi You},
-  title     = {Bond dissociation energy as a programmable thermodynamic coordinate for inverse radical design},
+  title     = {Harnessing homolytic bond energetics to steer inverse radical design},
   journal   = {insert after publication},
   year      = {insert after publication},
   volume    = {insert after publication},
