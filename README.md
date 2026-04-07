@@ -1,5 +1,4 @@
-# Bond dissociation energy as a programmable thermodynamic coordinate for inverse radical design
-
+# Harnessing homolytic bond energetics to steer inverse radical design
 ---
 
 ## Abstract and workflow
