@@ -31,7 +31,7 @@ Training Data (BDE labels + SMILES)
 ```
 Code/
 ├── data/                              # Datasets
-│   ├── bde_rdf_with_multi_halo_cfc_model_3.pkl.zip # Main training data (use pandas's ".read_pickle" to read it)
+│   ├── bde_rdf_with_multi_halo_cfc_model_3.pkl.zip # Main training data (use Pandas ".read_pickle" to read it)
 │   ├── test_set_exp_bdes.csv                       # Experimental BDE test set
 │   └── test_set_pfas.csv                           # PFAS test set
 │
