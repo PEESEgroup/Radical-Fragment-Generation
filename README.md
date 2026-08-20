@@ -179,10 +179,8 @@ Parses ORCA output files and computes BDE from SCF energies and zero-point energ
 @article{SheshanarayanaRadGen2026,
   author    = {R. Sheshanarayana and Fengqi You},
   title     = {Harnessing homolytic bond energetics to steer inverse radical design},
-  journal   = {insert after publication},
-  year      = {insert after publication},
-  volume    = {insert after publication},
-  pages     = {insert after publication},
-  doi       = {insert after publication}
+  journal   = {Digital Discovery},
+  year      = {2026},
+  doi       = {10.1039/D6DD00228E}
 }
 ```
